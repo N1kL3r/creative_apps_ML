@@ -1,1 +1,1 @@
-# creative_apps_ML
+# Creative application
